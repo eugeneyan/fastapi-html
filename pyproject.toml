@@ -6,7 +6,7 @@ authors = ["eugeneyan <eugeneyanziyou@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-fastapi = "^0.60.1"
+fastapi = "^0.109.1"
 jinja2 = "^2.11.2"
 uvicorn = "^0.11.6"
 python-multipart = "^0.0.5"
