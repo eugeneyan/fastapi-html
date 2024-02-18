@@ -381,13 +381,13 @@ files = [
 
 [[package]]
 name = "uvicorn"
-version = "0.11.6"
+version = "0.11.7"
 description = "The lightning-fast ASGI server."
 optional = false
 python-versions = "*"
 files = [
-    {file = "uvicorn-0.11.6-py3-none-any.whl", hash = "sha256:d19a20b17445708fd222e5a7cfc3eacfb31ac269bc8fefa4920833334e199782"},
-    {file = "uvicorn-0.11.6.tar.gz", hash = "sha256:467c333c743ec6a3eb545517a0e3cac603becfa40c73c65ed46c3a4bf1c8e2d0"},
+    {file = "uvicorn-0.11.7-py3-none-any.whl", hash = "sha256:1d46a22cc55a52f5567e0c66f000ae56f26263e44cef59b7c885bf10f487ce6e"},
+    {file = "uvicorn-0.11.7.tar.gz", hash = "sha256:b50f7f4c0c499c9b8d0280924cfbd24b90ba02456e3dc80934b9a786a291f09f"},
 ]
 
 [package.dependencies]
@@ -452,4 +452,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.8"
-content-hash = "50093f71d559b397070243e690bbabe85966c9688ec408fcfc097fd4e4239a46"
+content-hash = "43dbfda030eecc8bb5c770b03f7946fafab3c7c0a1bafd53fc003b08b403275d"
